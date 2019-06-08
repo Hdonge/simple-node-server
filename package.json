@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "Create simple node server",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hdonge/simple-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hdonge/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/Hdonge/simple-node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
